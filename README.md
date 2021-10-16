@@ -5,7 +5,7 @@
 Hangman is a game in which the player has to guess which word is proposed, having as a hint the number of letters and the theme linked to the word. For each wrong letter, a part of the body is erased until it is hanged.
 
 # Example 
-~~~C
+<pre>
 |--------------HANGMAN--------------|
 |            [1] - play             |
 |            [2] - exit             |
@@ -46,7 +46,7 @@ Used Letters:  M  A  S  X  I  C  R  O  N
 keyword: COMIDA
 
 Type a letter:  d
-~~~
+</pre>
 
 ---
 # Win 
