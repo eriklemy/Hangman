@@ -54,9 +54,10 @@ Type a letter:  d
          CONGRATS YOU WON!!
          Answer: MACARRONADA
 
-|------------|                       [score: 11 / 11]|            |                       [lifes: 3]      
-|            0
+|------------|                       [score: 11 / 11]|            
+|            0                       [lifes: 3]      
 |            |\
+|            
 |             
 |
 |
